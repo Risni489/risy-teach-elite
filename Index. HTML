@@ -1,0 +1,29 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Risy Teach Elite | Digital Excellence</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#080808;color:#f7f3e9;font-family:Arial,sans-serif;line-height:1.6}header{padding:22px 7%;display:flex;justify-content:space-between;align-items:center;border-bottom:1px solid #59431b}header b{font-size:23px;color:#f5bd43}nav a{color:white;text-decoration:none;margin-left:16px;font-size:13px}.hero{padding:95px 8%;background:radial-gradient(ellipse at 85% 20%,#49330c,#080808 55%)}.tag{color:#f5bd43;letter-spacing:4px;font-size:12px}.hero h1{font-size:clamp(38px,7vw,68px);line-height:1.08;max-width:700px}.gold{color:#f5bd43}.hero p{color:#c5c1b7;max-width:530px}.btn{display:inline-block;background:#f5bd43;color:#111;padding:13px 22px;text-decoration:none;border-radius:4px;font-weight:bold;margin:10px 8px 0 0}.outline{background:transparent;color:#f5bd43;border:1px solid #f5bd43}.section{padding:55px 8%}.section h2{font-size:30px}.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:16px}.card{padding:23px;border:1px solid #51401e;border-radius:10px;background:#111}.card h3{color:#f5bd43}footer{text-align:center;padding:25px;border-top:1px solid #51401e;color:#aaa}
+</style>
+</head>
+<body>
+<header><b>Risy Teach.</b><nav><a href="#about">About</a><a href="#services">Services</a><a href="#contact">Contact</a></nav></header>
+<section class="hero">
+<div class="tag">LEARN • BUILD • GROW</div>
+<h1>Your Vision.<br><span class="gold">Our Digital Craft.</span></h1>
+<p>We build modern websites and digital experiences that help businesses grow, connect with customers and stand out online.</p>
+<a class="btn" href="#services">Explore Services ↗</a><a class="btn outline" href="#contact">Let's Talk</a>
+</section>
+<section class="section" id="about"><div class="tag">WHO WE ARE</div><h2>Built with purpose. Designed to impress.</h2><p>Risy Teach is a digital brand focused on web development, creative design and practical technology solutions.</p></section>
+<section class="section" id="services"><div class="tag">WHAT WE DO</div><h2>Our Services</h2><div class="cards">
+<div class="card"><h3>01 / Websites</h3><p>Modern, responsive business websites.</p></div>
+<div class="card"><h3>02 / UI Design</h3><p>Clean layouts and memorable digital experiences.</p></div>
+<div class="card"><h3>03 / Web Support</h3><p>Website updates and basic maintenance.</p></div>
+</div></section>
+<section class="section" id="contact"><div class="tag">START SOMETHING GREAT</div><h2>Ready for your new website?</h2><p>Contact Risy Teach to discuss your project.</p><a class="btn" href="https://wa.me/94700000000">WhatsApp Us ↗</a><p>Demo template: replace the sample WhatsApp number with your real number.</p></section>
+<footer>© 2026 Risy Teach. All rights reserved.</footer>
+</body>
+</html>
